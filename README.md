@@ -4,7 +4,7 @@
 
 <a href="https://velog.io/@se0nw00/series"><img src="https://img.shields.io/badge/se0nw00.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a>
 <a href="https://instagram.com/s._.swo"><img src="https://img.shields.io/badge/instagram-d62976?style=badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://solved.ac/whkakrkr"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=whkakrkr&theme=dark"/></a>
+<a href="https://solved.ac/se0nw00"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=se0nw00&theme=dark"/></a>
    
   ---
 
