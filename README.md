@@ -1,9 +1,4 @@
-<div align="">
-    <br/>![Hello Kitty ](https://github.com/user-attachments/assets/d4406a74-151e-45f7-9317-d9801f3998e0)
-
-![Uploading Hello Kitty .gif…]()
-
-  <img align="right" width="36" src="https://github.com/user-attachments/assets/f714934c-034a-4adf-a152-423b4003122c" />
+<img align="right" width="36" src="https://github.com/user-attachments/assets/d4406a74-151e-45f7-9317-d9801f3998e0" />
 
   
 
