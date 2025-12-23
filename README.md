@@ -5,14 +5,15 @@
 <a href="https://solved.ac/se0nw00"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=se0nw00&theme=dark"/></a>
 
   ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=se0nw00)
-
 <div align="right">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=se0nw00)
+
+
 
 <details>
 <summary>Projects</summary>
