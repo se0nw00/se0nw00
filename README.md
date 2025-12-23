@@ -1,6 +1,9 @@
 <!--타이틀-->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome%se0nw00&fontSize=90)
 
+<!--잔디-->
+[![GitGarden](https://gitgarden.marshallku.dev/?user_name=se0nw00](https://github.com/marshallku/gitgarden)
+
 <!--뱃지-->
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
