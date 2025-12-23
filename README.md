@@ -6,11 +6,9 @@
 
   ---
 
-<div style="display: flex; align-items: flex-start; gap 24px;">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=se0nw00)
-### 🔧Tools
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-</div>
+| Most Used Languages | 🔧Tools |
+|---------------------|---------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=se0nw00) | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 
 <details>
 <summary>Projects</summary>
