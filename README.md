@@ -1,4 +1,4 @@
-## ʚYoun Seonwooɞ
+## ʚ Seonwoo ɞ
 <img align="right" width="36" src="https://github.com/user-attachments/assets/d4406a74-151e-45f7-9317-d9801f3998e0" />
 
 <a href="https://velog.io/@se0nw00/series"><img src="https://img.shields.io/badge/se0nw00.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a>
