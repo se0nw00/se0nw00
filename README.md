@@ -3,7 +3,6 @@
 
 <!--잔디-->
 ![GitGarden](https://gitgarden.marshallku.dev/user_name=se0nw00)
-<img src="https://github.com/marshallku/gitgarden" />
 
 <!--뱃지-->
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
