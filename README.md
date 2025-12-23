@@ -4,6 +4,9 @@
 <!--뱃지-->
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
+<!--언어-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?se0nw00=anuraghazra&layout=compact)
+
 <!--컨택-->
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
