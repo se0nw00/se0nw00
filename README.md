@@ -14,11 +14,6 @@
       />
     </td>
 
-    <tds
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=se0nw00)
-
-
-
 <details>
 <summary>Projects</summary>
 <div markdown="1">
