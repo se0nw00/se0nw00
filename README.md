@@ -14,6 +14,10 @@
       />
     </td>
 
+    <td style="padding-left: 24px;">
+  </tr>
+</table>
+
 <details>
 <summary>Projects</summary>
 <div markdown="1">
