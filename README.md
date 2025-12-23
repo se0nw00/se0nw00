@@ -2,7 +2,18 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome%se0nw00&fontSize=90)
 
 <!--잔디-->
-![GitGarden](https://gitgarden.marshallku.dev/?user_name=se0nw00(https://github.com/marshallku/gitgarden)
+![GitGarden](https://gitgarden.marshallku.dev/user_name=se0nw00)
+
+docker run -d \
+  --name gitgarden \
+  --restart unless-stopped \
+  -p 18085:18085 \
+  -e HOST=0.0.0.0 \
+  -e PORT=18085 \
+  -e GITHUB_TOKEN=YOUR_GITHUB_TOKEN \
+  -e CARGO_MANIFEST_DIR=/usr/local/bin \
+  ghcr.io/marshallku/gitgarden:latest
+
 
 <!--뱃지-->
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
