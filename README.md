@@ -7,6 +7,7 @@
 <a href="https://solved.ac/se0nw00"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=se0nw00&theme=dark"/></a>
    
   ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=se0nw00)(https://github.com/se0nw00/github-readme-stats)
 
 <details>
 <summary>Projects</summary>
